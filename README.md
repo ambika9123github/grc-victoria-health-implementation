@@ -1,26 +1,100 @@
-# grc-victoria-health-implementation
-Enterprise GRC program for 1200-employee healthcare provider. Risk register, control mapping, vendor assessment, ISO 27001 alignment.
+# Victoria Health Group – Healthcare GRC Risk Assessment
 
-# Victoria Health Group – GRC Program Implementation
+## Overview
 
-**Role**: GRC Analyst reporting to CISO  
-**Context**: 1200-employee healthcare provider, 3 hospitals acquired in 18 months. No centralized policies. Handles PHI, Medicare billing, employee PII.
+This project is a fictional Governance, Risk, and Compliance (GRC) portfolio simulation developed to demonstrate practical risk assessment, control evaluation, and executive reporting skills within a healthcare environment.
 
-**Business Problem**: 
-Post-acquisition chaos. No risk register. Audit fatigue. Board mandate: ZERO appetite for patient safety risk.
+The assessment simulates Victoria Health Group following the acquisition of three hospitals and evaluates cybersecurity, operational, compliance, and third-party risks associated with post-acquisition integration.
 
-**My Deliverables**:
-1. `Risk_Register.xlsx` – 5 critical risks identified, scored, mapped to ISO 27001
-2. Risk Appetite Statement – Board-aligned thresholds 
-3. Control Inventory – 10 controls across tech/admin/physical 
-4. Vendor Risk Assessment – 3rd party supply chain analysis
-5. Executive Report – 1-page BLUF for board
+---
 
-**Key Findings**:
-- R-001: Unpatched IoT = 16 Critical, exceeds ZERO patient safety appetite
-- R-004: Single admin no MFA = 20 Critical, single point of failure
-- Vendor: MedicareBillingCo has no SOC2 = 16 Critical supply chain risk
+## My Role
 
-**Tools**: Google Sheets, ISO 27001 Annex A, NIST 800-30, HIPAA Security Rule
+**GRC Analyst (Portfolio Simulation)**
 
-**Impact**: Identified $140K remediation plan to bring residual risk under board threshold.
+Responsibilities included:
+
+- Performing enterprise risk assessment
+- Developing a Risk Register
+- Defining organizational Risk Appetite
+- Evaluating security controls
+- Conducting Vendor Risk Assessment
+- Preparing Executive Risk Reporting
+- Developing a Risk Assessment Methodology
+
+---
+
+## Frameworks & Standards
+
+- ISO/IEC 27001:2022
+- NIST SP 800-30
+- NIST Cybersecurity Framework (CSF) 2.0
+- HIPAA Security Rule
+- SOC 2
+
+---
+
+## Repository Contents
+
+### Project Overview (PDF)
+
+High-level overview of the assessment, business scenario, frameworks, scope, and project objectives.
+
+### Executive Report (PDF)
+
+Executive-level summary of the assessment, key findings, risk treatment priorities, and 30-60-90 day remediation roadmap.
+
+### Healthcare GRC Assessment Workbook (Excel)
+
+The workbook contains the complete assessment across seven worksheets:
+
+1. Project Overview
+2. Risk Assessment Methodology
+3. Risk Register
+4. Risk Appetite Statement
+5. Control Inventory
+6. Vendor Risk Assessment
+7. Executive Report
+
+---
+
+## Key Risks Identified
+
+- Unpatched Medical IoT Devices
+- Inconsistent Password Policies
+- Absence of a Formal Incident Response Plan
+- Shared Privileged Accounts Without Multi-Factor Authentication (MFA)
+- Third-Party Vendor Security Assurance
+
+---
+
+## Skills Demonstrated
+
+- Enterprise Risk Assessment
+- Risk Quantification
+- ISO/IEC 27001 Control Mapping
+- NIST CSF 2.0 Alignment
+- HIPAA Compliance Analysis
+- Vendor Risk Assessment
+- Executive Risk Reporting
+- GRC Documentation
+- Risk Treatment Planning
+- Audit Readiness
+
+---
+
+## Portfolio Disclaimer
+
+This project is a fictional portfolio simulation created for educational and professional demonstration purposes.
+
+No real organization, patient information (PHI), or confidential business information has been used.
+
+The assessment is based on publicly available industry frameworks, guidance, and best practices.
+
+---
+
+## Author
+
+**Ambika Samanta**
+
+Aspiring GRC Analyst | Information Security | Risk & Compliance
