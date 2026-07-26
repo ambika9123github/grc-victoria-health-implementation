@@ -27,7 +27,7 @@ Performed enterprise risk assessment, evaluated security controls, conducted ven
 
 ## Repository Contents
 
-###  Healthcare GRC Assessment Workbook
+###  [Healthcare GRC Assessment Workbook] ()
 
 The workbook contains seven assessment worksheets:
 
@@ -38,7 +38,7 @@ The workbook contains seven assessment worksheets:
 
 ###  Supporting Documentation
 
-- [Project Overview] () 
+- [Project Overview] (Project_Overview.pdf) 
 - [Executive Report] (Executive_Report.pdf)
 
 ---
