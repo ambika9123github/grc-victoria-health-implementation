@@ -14,9 +14,9 @@ The assessment simulates Victoria Health Group following the acquisition of thre
 
 Responsibilities included:
 
-- Performing enterprise risk assessment    - Developing a Risk Register
-- Defining organizational Risk Appetite    - Evaluating security controls
-- Conducting Vendor Risk Assessment        - Preparing Executive Risk Reporting
+- Performing enterprise risk assessment     • Developing a Risk Register
+- Defining organizational Risk Appetite     • Evaluating security controls
+- Conducting Vendor Risk Assessment         • Preparing Executive Risk Reporting
 - Developing a Risk Assessment Methodology
 
 ---
