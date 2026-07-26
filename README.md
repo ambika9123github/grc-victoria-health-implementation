@@ -14,22 +14,17 @@ The assessment simulates Victoria Health Group following the acquisition of thre
 
 Responsibilities included:
 
-- Performing enterprise risk assessment
-- Developing a Risk Register
-- Defining organizational Risk Appetite
-- Evaluating security controls
-- Conducting Vendor Risk Assessment
-- Preparing Executive Risk Reporting
+- Performing enterprise risk assessment    - Developing a Risk Register
+- Defining organizational Risk Appetite    - Evaluating security controls
+- Conducting Vendor Risk Assessment        - Preparing Executive Risk Reporting
 - Developing a Risk Assessment Methodology
 
 ---
 
 ## Frameworks & Standards
 
-- ISO/IEC 27001:2022
-- NIST SP 800-30
-- NIST Cybersecurity Framework (CSF) 2.0
-- HIPAA Security Rule
+- ISO/IEC 27001:2022                        - NIST SP 800-30
+- NIST Cybersecurity Framework (CSF) 2.0    - HIPAA Security Rule
 - SOC 2
 
 ---
@@ -60,26 +55,19 @@ The workbook contains the complete assessment across seven worksheets:
 
 ## Key Risks Identified
 
-- Unpatched Medical IoT Devices
-- Inconsistent Password Policies
-- Absence of a Formal Incident Response Plan
-- Shared Privileged Accounts Without Multi-Factor Authentication (MFA)
+- Unpatched Medical IoT Devices                   - Inconsistent Password Policies
+- Absence of a Formal Incident Response Plan      - Shared Privileged Accounts Without Multi-Factor Authentication (MFA)
 - Third-Party Vendor Security Assurance
 
 ---
 
 ## Skills Demonstrated
 
-- Enterprise Risk Assessment
-- Risk Quantification
-- ISO/IEC 27001 Control Mapping
-- NIST CSF 2.0 Alignment
-- HIPAA Compliance Analysis
-- Vendor Risk Assessment
-- Executive Risk Reporting
-- GRC Documentation
-- Risk Treatment Planning
-- Audit Readiness
+- Enterprise Risk Assessment                       - Risk Quantification
+- ISO/IEC 27001 Control Mapping                    - NIST CSF 2.0 Alignment
+- HIPAA Compliance Analysis                        - Vendor Risk Assessment
+- Executive Risk Reporting                         - GRC Documentation
+- Risk Treatment Planning                          - Audit Readiness
 
 ---
 
