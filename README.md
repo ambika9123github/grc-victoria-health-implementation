@@ -1,10 +1,12 @@
 # Victoria Health Group – Healthcare GRC Risk Assessment
 
-## Overview
+## Governance, Risk & Compliance (GRC) Portfolio Simulation
 
-This project is a fictional Governance, Risk, and Compliance (GRC) portfolio simulation developed to demonstrate practical risk assessment, control evaluation, and executive reporting skills within a healthcare environment.
+### Overview
 
-The assessment simulates Victoria Health Group following the acquisition of three hospitals and evaluates cybersecurity, operational, compliance, and third-party risks associated with post-acquisition integration.
+This project is a fictional healthcare GRC assessment developed to demonstrate practical experience in enterprise risk assessment, control evaluation, vendor risk management, and executive risk reporting within a post-acquisition healthcare environment.
+
+The assessment evaluates cybersecurity, compliance, operational, and third-party risks across Victoria Health Group following the acquisition of three hospitals.
 
 ---
 
@@ -12,62 +14,59 @@ The assessment simulates Victoria Health Group following the acquisition of thre
 
 **GRC Analyst (Portfolio Simulation)**
 
-Responsibilities included:
-
-- Performing enterprise risk assessment     • Developing a Risk Register
-- Defining organizational Risk Appetite     • Evaluating security controls
-- Conducting Vendor Risk Assessment         • Preparing Executive Risk Reporting
-- Developing a Risk Assessment Methodology
+Performed enterprise risk assessment, evaluated security controls, conducted vendor risk assessments, documented organizational risk, and prepared executive-level recommendations aligned with industry-recognized security frameworks.
 
 ---
 
 ## Frameworks & Standards
 
-- ISO/IEC 27001:2022                        - NIST SP 800-30
-- NIST Cybersecurity Framework (CSF) 2.0    - HIPAA Security Rule
-- SOC 2
+- ISO/IEC 27001:2022 • NIST SP 800-30 • NIST CSF 2.0
+- HIPAA Security Rule • SOC 2
 
 ---
 
 ## Repository Contents
 
-### Project Overview (PDF)
+###  Healthcare GRC Assessment Workbook
 
-High-level overview of the assessment, business scenario, frameworks, scope, and project objectives.
+The workbook contains seven assessment worksheets:
 
-### Executive Report (PDF)
+- Project Overview • Risk Assessment Methodology
+- Risk Register • Risk Appetite Statement
+- Control Inventory • Vendor Risk Assessment
+- Executive Report
 
-Executive-level summary of the assessment, key findings, risk treatment priorities, and 30-60-90 day remediation roadmap.
+###  Supporting Documentation
 
-### Healthcare GRC Assessment Workbook (Excel)
-
-The workbook contains the complete assessment across seven worksheets:
-
-1. Project Overview
-2. Risk Assessment Methodology
-3. Risk Register
-4. Risk Appetite Statement
-5. Control Inventory
-6. Vendor Risk Assessment
-7. Executive Report
+- Project Overview (PDF)
+- Executive Report (PDF)
 
 ---
 
 ## Key Risks Identified
 
-- Unpatched Medical IoT Devices                   - Inconsistent Password Policies
-- Absence of a Formal Incident Response Plan      - Shared Privileged Accounts Without Multi-Factor Authentication (MFA)
+- Unpatched Medical IoT Devices • Inconsistent Password Policies
+- Absence of a Formal Incident Response Plan
+- Shared Privileged Accounts without Multi-Factor Authentication (MFA)
 - Third-Party Vendor Security Assurance
 
 ---
 
-## Skills Demonstrated
+## Key GRC Capabilities
 
-- Enterprise Risk Assessment                       - Risk Quantification
-- ISO/IEC 27001 Control Mapping                    - NIST CSF 2.0 Alignment
-- HIPAA Compliance Analysis                        - Vendor Risk Assessment
-- Executive Risk Reporting                         - GRC Documentation
-- Risk Treatment Planning                          - Audit Readiness
+- Enterprise Risk Assessment • Risk Quantification
+- ISO/IEC 27001 Control Mapping • NIST CSF 2.0 Alignment
+- HIPAA Compliance Analysis • Vendor Risk Assessment
+- Executive Risk Reporting • Risk Treatment Planning
+- GRC Documentation • Audit Readiness
+
+---
+
+## Business Scenario
+
+Victoria Health Group recently acquired three hospitals and initiated a Governance, Risk, and Compliance (GRC) assessment to identify cybersecurity, operational, compliance, and vendor-related risks introduced during post-acquisition integration.
+
+The assessment includes enterprise risk identification, control evaluation, risk prioritization, vendor security assessment, and executive reporting to support informed risk-based decision-making.
 
 ---
 
@@ -75,9 +74,7 @@ The workbook contains the complete assessment across seven worksheets:
 
 This project is a fictional portfolio simulation created for educational and professional demonstration purposes.
 
-No real organization, patient information (PHI), or confidential business information has been used.
-
-The assessment is based on publicly available industry frameworks, guidance, and best practices.
+No real organization, patient information (PHI), or confidential business information was used. The assessment is based on publicly available industry frameworks, guidance, and best practices.
 
 ---
 
@@ -85,4 +82,6 @@ The assessment is based on publicly available industry frameworks, guidance, and
 
 **Ambika Samanta**
 
-Aspiring GRC Analyst | Information Security | Risk & Compliance
+Bachelor of Computer Applications (BCA)
+
+Aspiring GRC Analyst | Information Security | Governance, Risk & Compliance
