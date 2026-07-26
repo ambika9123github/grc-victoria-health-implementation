@@ -27,7 +27,7 @@ Performed enterprise risk assessment, evaluated security controls, conducted ven
 
 ## Repository Contents
 
-###  [Healthcare GRC Assessment Workbook] ()
+###  [Healthcare GRC Assessment Workbook] (Victoria Health Group - Healthcare GRC Assessment.xlsx)
 
 The workbook contains seven assessment worksheets:
 
