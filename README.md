@@ -84,4 +84,4 @@ No real organization, patient information (PHI), or confidential business inform
 
 Bachelor of Computer Applications (BCA)
 
-Aspiring GRC Analyst | Information Security | Governance, Risk & Compliance
+Aspiring Governance, Risk & Compliance (GRC) Analyst
