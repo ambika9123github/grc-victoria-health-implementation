@@ -27,7 +27,7 @@ Performed enterprise risk assessment, evaluated security controls, conducted ven
 
 ## Repository Contents
 
-###  [Healthcare GRC Assessment Workbook] (Victoria Health Group - Healthcare GRC Assessment.xlsx)
+###  [Healthcare GRC Assessment Workbook](https://github.com/ambika9123github/grc-victoria-health-implementation/blob/main/Victoria%20Health%20Group%20-%20Healthcare%20GRC%20Assessment.xlsx)
 
 The workbook contains seven assessment worksheets:
 
@@ -38,8 +38,8 @@ The workbook contains seven assessment worksheets:
 
 ###  Supporting Documentation
 
-- [Project Overview] (Project_Overview.pdf) 
-- [Executive Report] (Executive_Report.pdf)
+- [Project Overview](Project_Overview.pdf) 
+- [Executive Report](Executive_Report.pdf)
 
 ---
 
